@@ -10,9 +10,42 @@ patch that makes CactEye 2 fully compatible with Distant Object 1.5.4. If you ar
 Distant Object, then the patch is not needed and will introduce unnecessary log spam. 
 
 To install the Compatibility patch for Distant Object Enhancement, extract the contents of the 
-"Compatibility Patch for Distant Object v1.5.4" folder to your GameData folder.
+"DistantObjectHook" folder to your GameData folder.
 
 ******************Change Log******************
+
+2.7.2
+- Compiled for KSP 1.1.2
+
+0.6.11
+- Recompiled for the latest version of DOE
+- Fixed an issue preventing the science reports from working in Career/Science Sandbox mode.
+- The slim probe core now has the proper level of SAS control to facilitate targeting astronomical bodies.
+
+CactEye Telescopes Continued 0.6.10
+- Recompiled for the latest version of DOE
+- Updated for KSP 1.0.5
+
+CactEye Telescopes Continued 0.6.9
+- Recompiled for the latest version of DOE
+
+CactEye2 BETA 6.7
+- Recompiled for the latest version of DOE
+- The GRU-1000 now has a lifespan of 100 days.
+- The GRU-2000 now has a lifespan of 200 days.
+
+CactEye 2 BETA 6.1
+NOTE: Angel-125 here, raven appears to have been away for a couple of months, so I've forked his build of CactEye and am doing some caretaking/maintennance until raven gets back. I'm hoping he/she will return to a bunch of pull requests from me and pick up the mod again. If not, I'll do what I can to continue the er, continuation of RubberDucky's mod.
+
+- Recompiled for KSP 1.0.4
+- Updated parts to latest KIS/KAS
+
+CactEye 2 BETA 6
+-Fixed an issue where the skybox would not be visible in pictures taken with a CactEye telescope.
+-Fixed a timewarp issue with the skybox.
+-Fixed an issue where the FungEye telescope would not explode when pointed at the sun.
+-Added contracts!
+-Added an example craft of the small telescope.
 
 CactEye 2 BETA 5.2
 -Fixed attachment node issues on some of the structural parts.

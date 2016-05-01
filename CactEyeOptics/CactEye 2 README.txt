@@ -14,6 +14,9 @@ To install the Compatibility patch for Distant Object Enhancement, extract the c
 
 ******************Change Log******************
 
+2.7.2
+- Compiled for KSP 1.1.2
+
 0.6.11
 - Recompiled for the latest version of DOE
 - Fixed an issue preventing the science reports from working in Career/Science Sandbox mode.
